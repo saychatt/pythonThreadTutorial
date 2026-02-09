@@ -6,13 +6,13 @@ A hands-on, step-by-step guide to Python threading with working examples.
 
 Run the examples in order:
 
-1. **01_basic_thread.py** - Creating and starting threads
-2. **02_thread_args.py** - Passing arguments to threads
-3. **03_locks.py** - Thread synchronization and race conditions
-4. **04_producer_consumer.py** - Producer-consumer pattern with Queue
-5. **05_threadpool.py** - ThreadPoolExecutor (modern approach)
-6. **06_real_world.py** - Real-world web scraping example
-7. **07_summary.py** - Best practices and summary
+1. **[01_basic_thread.py](01_basic_thread.py)** - Creating and starting threads
+2. **[02_thread_args.py](02_thread_args.py)** - Passing arguments to threads
+3. **[03_locks.py](03_locks.py)** - Thread synchronization and race conditions
+4. **[04_producer_consumer.py](04_producer_consumer.py)** - Producer-consumer pattern with Queue
+5. **[05_threadpool.py](05_threadpool.py)** - ThreadPoolExecutor (modern approach)
+6. **[06_real_world.py](06_real_world.py)** - Real-world web scraping example
+7. **[07_summary.py](07_summary.py)** - Best practices and summary
 
 ## 🚀 Quick Start
 
